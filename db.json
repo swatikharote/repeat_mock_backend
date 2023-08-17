@@ -1,6 +1,7 @@
 {
     "users": [
         {
+            "id": 1,
             "username": "swati",
             "avatar": "",
             "password": "1234",
